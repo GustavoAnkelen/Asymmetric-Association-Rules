@@ -13,7 +13,7 @@
 ## Presentación de resultados obtenidos 
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GustavoAnkelen/mat281_portfolio.git/master?urlpath=lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GustavoAnkelen/mat281_portfolio.git/master?urlpath=lab)\n
 
 Pagina del curso: http://paguirre.mat.utfsm.cl/mat283-2021-1.html
     Estudiante: Gustavo Arcaya
