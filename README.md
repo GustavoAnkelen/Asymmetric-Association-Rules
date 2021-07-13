@@ -8,22 +8,11 @@
 </br>
 </br>
 
-# MAT281 - Aplicaciones de la Matemática en la Ingeniería
+# MAT281 - Laboratorio de Modelación II
 
-## Personal Portafolio
+## Presentación de Resultados
 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GustavoAnkelen/mat281_portfolio.git/master?urlpath=lab)
 
-* __Repositorio Curso__: [GitHub](https://github.com/aLoNsolml/mat281_2019S2)
-
-* __Licencia__: [MIT](./LICENCE.md)
-
-
-Recopilación de laboratorios, tareas y proyectos de la asignatura MAT281 correspondiente al segundo semestre del año 2019.
-
-Es posible ejecutar y explorar interactivamente los jupyter notebooks de este repositorio clickeando en el icono _launch binder_ que se encuentra bajo el título. Esperar hasta que se abra una instancia de JupyterLab.
-
-
-## Instrucciones de configuración inicial para el curso
 
