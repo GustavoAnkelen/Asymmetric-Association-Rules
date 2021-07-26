@@ -13,7 +13,6 @@
 ## Presentación de resultados obtenidos 
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)]() aun debo completar esta parte
 
 ### Pagina del curso: http://paguirre.mat.utfsm.cl/mat283-2021-1.html
 #####    Estudiante: Gustavo Arcaya.
